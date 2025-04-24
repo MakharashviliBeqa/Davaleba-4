@@ -59,13 +59,13 @@ body{
     font: normal normal 100 40px/53px Archy EDT;
 }
 
-.down{
-        float: left;
-        width: 33.33%;
-        padding: 5px;
-    }
+.Section2-card{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
 
-.down1{
+.Section3-card{
     float: left;
     width: 33.33%;
     padding: 5px;
