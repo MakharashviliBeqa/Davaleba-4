@@ -35,7 +35,7 @@ body{
     color: #f2f2f2;
 }
 
-.section2-title{
+.section2-title {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 140px;
@@ -49,20 +49,21 @@ body{
     color: #f2f2f2;
 }
 
-.section3-title{
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 140px;
-    margin-right: 140px;
+.section3-title, .section2-title{
     color: #707070;
     letter-spacing: 0.4px;
     font: normal normal 100 40px/53px Archy EDT;
 }
 
-.Section2-card, .Section3-card{
-    float: left;
-    width: 33.33%;
-    padding: 5px;
+.container {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.section2 {
+    padding: 60px 0;
 }
 
 .section2, .section3 {
